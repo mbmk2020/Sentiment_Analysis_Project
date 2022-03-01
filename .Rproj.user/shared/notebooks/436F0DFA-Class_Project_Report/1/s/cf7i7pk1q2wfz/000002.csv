@@ -1,0 +1,166 @@
+"0","                   ""hunspell"",""broom"", ""tokenizers"", ""janeaustenr""))"
+"2","Installing packages into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/mnormt_2.0.2.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 188 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/psych_2.1.9.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 4.0 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/SnowballC_0.7.0.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 439 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/hunspell_3.0.1.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 2.0 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/broom_0.7.10.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 1.7 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/tokenizers_0.2.1.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 1.3 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/janeaustenr_0.1.5.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 1.6 MB
+
+"
+"1","package â€˜mnormtâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜psychâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜SnowballCâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜hunspellâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜broomâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜tokenizersâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜janeaustenrâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""twitteR"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/twitteR_1.1.9.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 583 KB
+
+"
+"1","package â€˜twitteRâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""tidytext"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/tidytext_0.3.2.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 2.9 MB
+
+"
+"1","package â€˜tidytextâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""ggmap"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/ggmap_3.0.0.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 4.5 MB
+
+"
+"1","package â€˜ggmapâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""tcltk"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"1","Warning in "
+"1","package â€˜tcltkâ€™ is a base package, and should not be updated"
+"0","install.packages(""gridExtra"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/gridExtra_2.3.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 1.1 MB
+
+"
+"1","package â€˜gridExtraâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""dplyr"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/dplyr_1.0.7.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 1.3 MB
+
+"
+"1","package â€˜dplyrâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""kableExtra"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/kableExtra_1.3.4.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 1.8 MB
+
+"
+"1","package â€˜kableExtraâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""sentimentr"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/sentimentr_2.9.0.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 3.8 MB
+
+"
+"1","package â€˜sentimentrâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"

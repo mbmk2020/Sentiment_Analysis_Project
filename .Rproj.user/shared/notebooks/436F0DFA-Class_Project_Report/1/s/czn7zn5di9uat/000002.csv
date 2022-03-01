@@ -1,0 +1,5 @@
+"0",""
+"0","consumer_secret <- ""consumer_secret_XX"""
+"0","access_secret <- ""access_secret_XX"""
+"0","#This step is needed to setup the twitter API and before we start searching for data. It made as comment because the keys have to be real and active in order to run this line without errors. If you set your keys you can remove the ""#"" and run this line: "
+"0",""

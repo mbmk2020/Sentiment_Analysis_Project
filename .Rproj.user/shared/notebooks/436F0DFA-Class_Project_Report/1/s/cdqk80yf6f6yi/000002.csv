@@ -1,0 +1,7 @@
+"0","  sentiment_by(cleaned_data$text) %>%"
+"0","    ave_sentiment==0~""Natural"","
+"0","    ave_sentiment>0~""Positive"""
+"0","  select(ave_sentiment,Sentiment) %>%"
+"0","  group_by(Sentiment) %>%"
+"0","  mutate(Sentiment_Score = count/sum(count)) %>%"
+"0","  mutate(Service = service_name)"

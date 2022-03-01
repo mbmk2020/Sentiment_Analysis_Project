@@ -1,0 +1,8 @@
+"0","library(tidyverse)"
+"0","library(tidytext)"
+"0","library(ggmap)"
+"0","library(tcltk)"
+"0","library(gridExtra)"
+"0","library(scales)"
+"0","library(dplyr)"
+"0","library(sentimentr)"

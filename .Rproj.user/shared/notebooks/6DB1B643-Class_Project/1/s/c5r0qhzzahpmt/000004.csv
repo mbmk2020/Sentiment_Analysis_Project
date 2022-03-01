@@ -1,0 +1,108 @@
+"0","install.packages(c(""mnormt"", ""psych"", ""SnowballC"", ""hunspell"", "
+"2","Installing packages into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/mnormt_2.0.2.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 188 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/psych_2.1.9.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 4.0 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/SnowballC_0.7.0.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 439 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/hunspell_3.0.1.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 2.0 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/broom_0.7.10.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 1.7 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/tokenizers_0.2.1.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 1.3 MB
+
+"
+"2","Content type 'application/zip'"
+"2","downloaded 1.6 MB
+
+"
+"1","package â€˜mnormtâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜psychâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜SnowballCâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜hunspellâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜broomâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜tokenizersâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜janeaustenrâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""rtweet"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/rtweet_0.7.0.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 3.4 MB
+
+"
+"1","package â€˜rtweetâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""tidytext"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/tidytext_0.3.2.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 2.9 MB
+
+"
+"1","package â€˜tidytextâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""ggmap"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.0/ggmap_3.0.0.zip'
+"
+"2","Content type 'application/zip'"
+"2","downloaded 4.5 MB
+
+"
+"1","package â€˜ggmapâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"0","install.packages(""tcltk"")"
+"2","Installing package into ‘C:/Users/Valued Customer/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"1","Warning in "
+"1",""

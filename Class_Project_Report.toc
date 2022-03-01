@@ -1,0 +1,16 @@
+\contentsline {section}{Introduction}{2}{section*.2}%
+\contentsline {section}{Motivation}{2}{section*.3}%
+\contentsline {section}{Installing Scripts}{3}{section*.4}%
+\contentsline {subsection}{Required packages}{3}{section*.5}%
+\contentsline {subsection}{Required libraries}{3}{section*.6}%
+\contentsline {subsection}{Setup the twitter API}{3}{section*.7}%
+\contentsline {section}{Data}{4}{section*.8}%
+\contentsline {subsection}{Searching data using twitter API}{4}{section*.9}%
+\contentsline {subsection}{Combining data for one month history}{5}{section*.10}%
+\contentsline {section}{Data Analysis}{5}{section*.11}%
+\contentsline {subsection}{Data Pre-proccessing and Tokanization}{5}{section*.12}%
+\contentsline {subsection}{Sentiment lexicons using ``tidytext''}{8}{section*.13}%
+\contentsline {subsection}{Text Ploarity Analysis using sentimentR}{13}{section*.14}%
+\contentsline {section}{Results}{15}{section*.15}%
+\contentsline {section}{Conclusion}{17}{section*.16}%
+\contentsline {section}{References}{18}{section*.17}%
